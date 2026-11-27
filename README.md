@@ -21,6 +21,7 @@ Saveetha Engineering College, Chennai
 ## Certifications
 
 - Machine Learning --- IBM (Coursera)
+- 
 ##Projects
 
 I'm currently building my skills through coursework and practice. I'll
